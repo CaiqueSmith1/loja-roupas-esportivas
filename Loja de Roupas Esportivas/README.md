@@ -67,8 +67,8 @@ Você pode usar o [Postman](https://www.postman.com/) ou o `curl` para testar os
 - `GET /relatorios/mais-vendidos`
 - `GET /relatorios/por-cliente/:id`
 - `GET /relatorios/consumo-medio`
-- `GET /relatorios/venda/cliente`
-- `GET /relatorios/venda/produto`
+- `GET /relatorios/venda/clientes`
+- `GET /relatorios/venda/produtos`
 - `GET /relatorios/venda/vendedores`
 - `GET /relatorios/baixo-estoque`
 
