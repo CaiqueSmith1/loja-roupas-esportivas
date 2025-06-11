@@ -82,4 +82,4 @@ O relatório final do projeto está disponível na pasta `/relatório/relatorio-
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por [Seu Nome] como atividade prática da disciplina de Sistemas Distribuídos e Mobile.
+Projeto desenvolvido por Caique Silva dos Reis como atividade prática da disciplina de Sistemas Distribuídos e Mobile.
