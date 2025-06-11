@@ -44,9 +44,9 @@ Todos os serviços se comunicam via APIs REST e utilizam um banco de dados relac
 |----------------------|-------|
 | clientes-service     | 3001  |
 | vendedores-service   | 3002  |
-| produtos-service     | 3000  |
-| vendas-service       | 3003  |
-| relatorios-service   | 3004  |
+| produtos-service     | 3003  |
+| vendas-service       | 3004  |
+| relatorios-service   | 3005  |
 | PostgreSQL (interno) | 5432  |
 
 ---
@@ -67,6 +67,9 @@ Você pode usar o [Postman](https://www.postman.com/) ou o `curl` para testar os
 - `GET /relatorios/mais-vendidos`
 - `GET /relatorios/por-cliente/:id`
 - `GET /relatorios/consumo-medio`
+- `GET /relatorios/venda/cliente`
+- `GET /relatorios/venda/produto`
+- `GET /relatorios/venda/vendedores`
 - `GET /relatorios/baixo-estoque`
 
 ---
