@@ -1,6 +1,0 @@
-CREATE TABLE IF NOT EXISTS clientes (
-  id SERIAL PRIMARY KEY,
-  nome VARCHAR(100),
-  email VARCHAR(100),
-  telefone VARCHAR(20)
-);
